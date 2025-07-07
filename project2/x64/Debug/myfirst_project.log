@@ -1,0 +1,15 @@
+﻿  myfirst_project.cpp
+C:\Users\s611g\Desktop\code\vs\myfirst_project2\myfirst_project.cpp(16,4): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\s611g\Desktop\code\vs\myfirst_project2\myfirst_project.cpp(16,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\s611g\Desktop\code\vs\myfirst_project2\myfirst_project.cpp(66,16): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\s611g\Desktop\code\vs\myfirst_project2\myfirst_project.cpp(66,13): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\s611g\Desktop\code\vs\myfirst_project2\myfirst_project.cpp(77,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\s611g\Desktop\code\vs\myfirst_project2\myfirst_project.cpp(86,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\s611g\Desktop\code\vs\myfirst_project2\myfirst_project.cpp(176,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\s611g\Desktop\code\vs\myfirst_project2\myfirst_project.cpp(198,22): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\s611g\Desktop\code\vs\myfirst_project2\myfirst_project.cpp(198,17): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  源.cpp
+  正在生成代码...
+  myfirst_project.vcxproj -> C:\Users\s611g\Desktop\code\vs\myfirst_project2\x64\Debug\myfirst_project.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
