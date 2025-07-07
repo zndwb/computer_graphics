@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(myfirst_project.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  project3.cpp
+  源.cpp
+  正在生成代码...
+  myfirst_project.vcxproj -> C:\Users\s611g\Desktop\工作办公\计算机图形学\all projects\project3\project3-2\x64\Debug\project3.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

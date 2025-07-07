@@ -1,0 +1,2 @@
+C:\Users\s611g\Desktop\code\vs\myfirst_project\x64\Debug\myfirst_project.exe
+C:\Users\s611g\Desktop\code\vs\myfirst_project2\x64\Debug\myfirst_project.exe

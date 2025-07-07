@@ -1,0 +1,6 @@
+C:\Users\s611g\Desktop\code\vs\myfirst_project\x64\Debug\myfirst_project.exe
+C:\Users\s611g\Desktop\code\vs\myfirst_project2\x64\Debug\myfirst_project.exe
+C:\Users\s611g\Desktop\code\vs\project3\x64\Debug\project3.exe
+C:\Users\s611g\Desktop\code\vs\project3-2\x64\Debug\project3.exe
+C:\Users\s611g\Desktop\工作办公\计算机图形学\all projects\project3-2\x64\Debug\project3.exe
+C:\Users\s611g\Desktop\工作办公\计算机图形学\all projects\project3\project3-2\x64\Debug\project3.exe
