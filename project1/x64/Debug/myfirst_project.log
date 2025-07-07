@@ -1,0 +1,13 @@
+﻿  myfirst_project.cpp
+C:\Users\s611g\Desktop\工作办公\计算机图形学\all projects\myfirst_project\myfirst_project.cpp(13,37): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\s611g\Desktop\工作办公\计算机图形学\all projects\myfirst_project\myfirst_project.cpp(13,45): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\s611g\Desktop\工作办公\计算机图形学\all projects\myfirst_project\myfirst_project.cpp(29,31): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+C:\Users\s611g\Desktop\工作办公\计算机图形学\all projects\myfirst_project\myfirst_project.cpp(29,21): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+C:\Users\s611g\Desktop\工作办公\计算机图形学\all projects\myfirst_project\myfirst_project.cpp(37,35): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+C:\Users\s611g\Desktop\工作办公\计算机图形学\all projects\myfirst_project\myfirst_project.cpp(37,25): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+C:\Users\s611g\Desktop\工作办公\计算机图形学\all projects\myfirst_project\myfirst_project.cpp(78,20): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  源.cpp
+  正在生成代码...
+  myfirst_project.vcxproj -> C:\Users\s611g\Desktop\工作办公\计算机图形学\all projects\myfirst_project\x64\Debug\myfirst_project.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
